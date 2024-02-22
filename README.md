@@ -13,6 +13,11 @@ Validation on Confirm Password field
 
 ![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/1c150bb9-9210-44e4-9c27-334350b3ac61)
 
+
+Validation on Email:
+
+![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/476a2db5-ee30-49b5-90c9-781dc7154c38)
+
 Fields reset after successfully registration
 
 ![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/5fe57f19-3254-43f0-b889-ecd677630183)
