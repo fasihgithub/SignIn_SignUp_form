@@ -18,11 +18,16 @@ Validation on Email:
 
 ![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/476a2db5-ee30-49b5-90c9-781dc7154c38)
 
+Validation on Phone number:
+
+![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/464720f4-fbcb-4452-a438-8e8a767d2284)
+
+
 Fields reset after successfully registration
 
 ![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/5fe57f19-3254-43f0-b889-ecd677630183)
 
 
-Sign In Form  
+Sign Up form PNG
 <img src="pic1.PNG" width="128"/>
 
