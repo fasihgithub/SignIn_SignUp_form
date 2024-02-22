@@ -9,6 +9,9 @@ Validation on Name field
 
 ![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/85ce5751-f315-4dd6-b5aa-745530a5fb32)
 
+Validation on Confirm Password field 
+
+![image](https://github.com/fasihgithub/SignIn_SignUp_form/assets/150343594/1c150bb9-9210-44e4-9c27-334350b3ac61)
 
 Fields reset after successfully registration
 
